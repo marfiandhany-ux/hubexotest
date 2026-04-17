@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-18T01:29:24 WIB" name="saucedemo " finished-at="2026-04-18T01:29:48 WIB" duration-ms="24519">
+    <groups>
+    </groups>
+    <test started-at="2026-04-18T01:29:24 WIB" name="saucedemo" finished-at="2026-04-18T01:29:48 WIB" duration-ms="24519">
+      <class name="shoppingCart">
+        <test-method is-config="true" signature="testsetup(java.lang.reflect.Method)[pri:0, instance:shoppingCart@4df50bcc]" started-at="2026-04-18T01:29:45 WIB" name="testsetup" finished-at="2026-04-18T01:29:46 WIB" duration-ms="922" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void shoppingCart.checkoutFlow() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsetup -->
+        <test-method signature="checkoutFlow()[pri:0, instance:shoppingCart@4df50bcc]" started-at="2026-04-18T01:29:46 WIB" name="checkoutFlow" finished-at="2026-04-18T01:29:48 WIB" duration-ms="2338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutFlow -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:shoppingCart@4df50bcc]" started-at="2026-04-18T01:29:48 WIB" name="teardown" finished-at="2026-04-18T01:29:48 WIB" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- shoppingCart -->
+      <class name="login">
+        <test-method is-config="true" signature="testsetup(java.lang.reflect.Method)[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:24 WIB" name="testsetup" finished-at="2026-04-18T01:29:29 WIB" duration-ms="5008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void login.loginError() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsetup -->
+        <test-method signature="loginError()[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:29 WIB" name="loginError" finished-at="2026-04-18T01:29:30 WIB" duration-ms="1128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginError -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:30 WIB" name="teardown" finished-at="2026-04-18T01:29:30 WIB" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="testsetup(java.lang.reflect.Method)[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:30 WIB" name="testsetup" finished-at="2026-04-18T01:29:31 WIB" duration-ms="923" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void login.loginLocked() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsetup -->
+        <test-method signature="loginLocked()[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:31 WIB" name="loginLocked" finished-at="2026-04-18T01:29:32 WIB" duration-ms="1130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginLocked -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:32 WIB" name="teardown" finished-at="2026-04-18T01:29:32 WIB" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="testsetup(java.lang.reflect.Method)[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:32 WIB" name="testsetup" finished-at="2026-04-18T01:29:33 WIB" duration-ms="923" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void login.loginPerformance() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsetup -->
+        <test-method signature="loginPerformance()[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:33 WIB" name="loginPerformance" finished-at="2026-04-18T01:29:38 WIB" duration-ms="5104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPerformance -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:38 WIB" name="teardown" finished-at="2026-04-18T01:29:39 WIB" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="testsetup(java.lang.reflect.Method)[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:39 WIB" name="testsetup" finished-at="2026-04-18T01:29:39 WIB" duration-ms="911" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void login.loginProblem() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsetup -->
+        <test-method signature="loginProblem()[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:39 WIB" name="loginProblem" finished-at="2026-04-18T01:29:41 WIB" duration-ms="1165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginProblem -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:41 WIB" name="teardown" finished-at="2026-04-18T01:29:41 WIB" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="testsetup(java.lang.reflect.Method)[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:41 WIB" name="testsetup" finished-at="2026-04-18T01:29:42 WIB" duration-ms="948" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void login.loginTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsetup -->
+        <test-method signature="loginTest()[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:42 WIB" name="loginTest" finished-at="2026-04-18T01:29:43 WIB" duration-ms="1108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:43 WIB" name="teardown" finished-at="2026-04-18T01:29:43 WIB" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="testsetup(java.lang.reflect.Method)[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:43 WIB" name="testsetup" finished-at="2026-04-18T01:29:44 WIB" duration-ms="934" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void login.loginVisual() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsetup -->
+        <test-method signature="loginVisual()[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:44 WIB" name="loginVisual" finished-at="2026-04-18T01:29:45 WIB" duration-ms="1107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginVisual -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login@7692d9cc]" started-at="2026-04-18T01:29:45 WIB" name="teardown" finished-at="2026-04-18T01:29:45 WIB" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- login -->
+    </test> <!-- saucedemo -->
+  </suite> <!-- saucedemo  -->
+</testng-results>
