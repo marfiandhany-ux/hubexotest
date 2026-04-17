@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AmarthaTest]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="AmarthaTest(failed)" verbose="0">
+    <classes>
+      <class name="addToCart">
+        <methods>
+          <include name="teardown"/>
+          <include name="testOne"/>
+          <include name="flushReport"/>
+          <include name="testTwo"/>
+          <include name="startReport"/>
+        </methods>
+      </class> <!-- addToCart -->
+      <class name="aboutMenu">
+        <methods>
+          <include name="teardown"/>
+          <include name="flushReport"/>
+          <include name="testThree"/>
+          <include name="startReport"/>
+        </methods>
+      </class> <!-- aboutMenu -->
+    </classes>
+  </test> <!-- AmarthaTest(failed) -->
+</suite> <!-- Failed suite [AmarthaTest] -->

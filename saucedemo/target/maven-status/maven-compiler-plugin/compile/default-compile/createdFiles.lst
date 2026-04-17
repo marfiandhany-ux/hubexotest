@@ -1,0 +1,9 @@
+pages\homePage.class
+utils\Reports.class
+pages\loginPage.class
+utils\configReader.class
+actions\actionAddToCart.class
+actions\actionAbout.class
+hook\Setup.class
+actions\actionLogin.class
+pages\cartPage.class

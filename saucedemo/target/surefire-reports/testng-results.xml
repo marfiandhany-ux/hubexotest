@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-16T01:40:48 WIB" name="saucedemo " finished-at="2026-04-16T01:41:00 WIB" duration-ms="11853">
+    <groups>
+    </groups>
+    <test started-at="2026-04-16T01:40:48 WIB" name="saucedemo" finished-at="2026-04-16T01:41:00 WIB" duration-ms="11853">
+      <class name="shoppingCart">
+        <test-method is-config="true" signature="testsetup(java.lang.reflect.Method)[pri:0, instance:shoppingCart@45b9a632]" started-at="2026-04-16T01:40:48 WIB" name="testsetup" finished-at="2026-04-16T01:40:53 WIB" duration-ms="4844" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void shoppingCart.testp003() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsetup -->
+        <test-method signature="testp003()[pri:0, instance:shoppingCart@45b9a632]" started-at="2026-04-16T01:40:53 WIB" name="testp003" finished-at="2026-04-16T01:40:54 WIB" duration-ms="1218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testp003 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:shoppingCart@45b9a632]" started-at="2026-04-16T01:40:54 WIB" name="teardown" finished-at="2026-04-16T01:40:54 WIB" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="testsetup(java.lang.reflect.Method)[pri:0, instance:shoppingCart@45b9a632]" started-at="2026-04-16T01:40:54 WIB" name="testsetup" finished-at="2026-04-16T01:40:55 WIB" duration-ms="892" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void shoppingCart.testp004() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsetup -->
+        <test-method signature="testp004()[pri:0, instance:shoppingCart@45b9a632]" started-at="2026-04-16T01:40:55 WIB" name="testp004" finished-at="2026-04-16T01:40:57 WIB" duration-ms="1232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testp004 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:shoppingCart@45b9a632]" started-at="2026-04-16T01:40:57 WIB" name="teardown" finished-at="2026-04-16T01:40:57 WIB" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:shoppingCart@45b9a632]" started-at="2026-04-16T01:41:00 WIB" name="flushReport" finished-at="2026-04-16T01:41:00 WIB" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- shoppingCart -->
+      <class name="checkout">
+        <test-method is-config="true" signature="testsetup(java.lang.reflect.Method)[pri:0, instance:checkout@54c562f7]" started-at="2026-04-16T01:40:57 WIB" name="testsetup" finished-at="2026-04-16T01:40:58 WIB" duration-ms="914" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void checkout.testp005() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsetup -->
+        <test-method signature="testp005()[pri:0, instance:checkout@54c562f7]" started-at="2026-04-16T01:40:58 WIB" name="testp005" finished-at="2026-04-16T01:41:00 WIB" duration-ms="2347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testp005 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:checkout@54c562f7]" started-at="2026-04-16T01:41:00 WIB" name="teardown" finished-at="2026-04-16T01:41:00 WIB" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- checkout -->
+    </test> <!-- saucedemo -->
+  </suite> <!-- saucedemo  -->
+</testng-results>
